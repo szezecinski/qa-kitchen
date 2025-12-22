@@ -1,0 +1,5 @@
+{
+  "name": "QA Kitchen",
+  "description": "Um aplicativo CRUD de receitas caseiras, desenvolvido em React e TypeScript, com bugs intencionais para fins de treinamento e teste de QA.",
+  "requestFramePermissions": []
+}
